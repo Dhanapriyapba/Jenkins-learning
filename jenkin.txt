@@ -1,4 +1,5 @@
 Public static void main(String[]args) {
 System.out.println("Dhana");
-System.out.println("Dhana");
-System.out.println("Dhana");
+System.out.println("Ramya");
+System.out.println("nandhu");
+
